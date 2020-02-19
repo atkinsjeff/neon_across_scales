@@ -1,0 +1,691 @@
+"","taxonID","X","Scientific.Name.with.Author","Common.Name","Genus","Family","jenkins_model"
+"1","2PLANT",999,"","","","","mixed hardwood"
+"2","2PLANT-H",NA,NA,NA,NA,NA,NA
+"3","ABAM",NA,NA,NA,NA,NA,NA
+"4","ABBA",1,"Abies balsamea (L.) Mill.","balsam fir","Abies","Pinaceae","fir/hemlock"
+"5","ABGR",NA,NA,NA,NA,NA,NA
+"6","ABIES",NA,NA,NA,NA,NA,NA
+"7","ABLAL",NA,NA,NA,NA,NA,NA
+"8","ABLO",NA,NA,NA,NA,NA,NA
+"9","ABMA",NA,NA,NA,NA,NA,NA
+"10","ABPR",NA,NA,NA,NA,NA,NA
+"11","ABPR3",NA,NA,NA,NA,NA,NA
+"12","ABTH",NA,NA,NA,NA,NA,NA
+"13","ACBA2",5,"Acer barbatum Michx. p.p.","southern sugar maple","Acer","Aceraceae","soft maple/birch"
+"14","ACBA3",NA,NA,NA,NA,NA,NA
+"15","ACCI",NA,NA,NA,NA,NA,NA
+"16","ACCO2",NA,NA,NA,NA,NA,NA
+"17","ACER",2,"Acer L.","maple","Acer","Aceraceae","soft maple/birch"
+"18","ACFA",NA,NA,NA,NA,NA,NA
+"19","ACGL",NA,NA,NA,NA,NA,NA
+"20","ACGLD4",NA,NA,NA,NA,NA,NA
+"21","ACGR",NA,NA,NA,NA,NA,NA
+"22","ACKO",NA,NA,NA,NA,NA,NA
+"23","ACMA3",NA,NA,NA,NA,NA,NA
+"24","ACNE2",3,"Acer negundo L.","boxelder","Acer","Aceraceae","soft maple/birch"
+"25","ACNEN",NA,NA,NA,NA,NA,NA
+"26","ACPE",4,"Acer pensylvanicum L.","striped maple","Acer","Aceraceae","soft maple/birch"
+"27","ACRE4",NA,NA,NA,NA,NA,NA
+"28","ACRU",6,"Acer rubrum L.","red maple","Acer","Aceraceae","soft maple/birch"
+"29","ACRUR",9,"Acer rubrum L. var. rubrum","red maple","Acer","Aceraceae","soft maple/birch"
+"30","ACSA2",14,"Acer saccharinum L.","silver maple","Acer","Aceraceae","soft maple/birch"
+"31","ACSA3",16,"Acer saccharum Marshall","sugar maple","Acer","Aceraceae","hard maple/oak/hickory/beech"
+"32","ACSAS",17,"Acer saccharum ","sugar maple","Acer","Aceraceae","hard maple/oak/hickory/beech"
+"33","ACSP2",23,"Acer spicatum Lam.","mountain maple","Acer","Aceraceae","soft maple/birch"
+"34","ADRI",NA,NA,NA,NA,NA,NA
+"35","ADTR2",NA,NA,NA,NA,NA,NA
+"36","AECA",NA,NA,NA,NA,NA,NA
+"37","AEFL",26,"Aesculus flava Aiton","yellow buckeye","Aesculus","Hippocastanaceae","mixed hardwood"
+"38","AEPA",28,"Aesculus pavia L.","red buckeye","Aesculus","Hippocastanaceae","mixed hardwood"
+"39","AIAL",NA,NA,NA,NA,NA,NA
+"40","ALINR",34,"Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen","speckled alder","Alnus","Betulaceae","aspen/alder/cottonwood/willow"
+"41","ALNUS",NA,NA,NA,NA,NA,NA
+"42","ALRU2",NA,NA,NA,NA,NA,NA
+"43","ALST11",NA,NA,NA,NA,NA,NA
+"44","ALVI5",NA,NA,NA,NA,NA,NA
+"45","ALWR",NA,NA,NA,NA,NA,NA
+"46","AMAL2",NA,NA,NA,NA,NA,NA
+"47","AMAR3",36,"Amelanchier arborea (Michx. f.) Fernald","common serviceberry","Amelanchier","Rosaceae","woodland"
+"48","AMAR5",NA,NA,NA,NA,NA,NA
+"49","AMCO2",NA,NA,NA,NA,NA,NA
+"50","AMEL",NA,NA,NA,NA,NA,NA
+"51","AMELA",37,"Amelanchier Medik.","serviceberry","Amelanchier","Rosaceae","woodland"
+"52","AMLA",39,"Amelanchier laevis Wiegand","Allegheny serviceberry","Amelanchier","Rosaceae","woodland"
+"53","AMSA",44,"Amelanchier sanguinea (Pursh) DC.","roundleaf serviceberry","Amelanchier","Rosaceae","woodland"
+"54","ANAC4",NA,NA,NA,NA,NA,NA
+"55","ANAL12",NA,NA,NA,NA,NA,NA
+"56","ANIN",NA,NA,NA,NA,NA,NA
+"57","APOCYN",NA,NA,NA,NA,NA,NA
+"58","AQUIFO",NA,NA,NA,NA,NA,NA
+"59","AQUIFOSPP",NA,NA,NA,NA,NA,NA
+"60","ARCO3",NA,NA,NA,NA,NA,NA
+"61","ARFA",NA,NA,NA,NA,NA,NA
+"62","ARFI2",NA,NA,NA,NA,NA,NA
+"63","ARNO4",NA,NA,NA,NA,NA,NA
+"64","ARPA6",NA,NA,NA,NA,NA,NA
+"65","ARSP2",45,"Aralia spinosa L.","devil's walkingstick","Aralia","Araliaceae","mixed hardwood"
+"66","ARTR2",NA,NA,NA,NA,NA,NA
+"67","ARTRT2",NA,NA,NA,NA,NA,NA
+"68","ARVIM",NA,NA,NA,NA,NA,NA
+"69","ASAN6",NA,NA,NA,NA,NA,NA
+"70","ASIMI",NA,NA,NA,NA,NA,NA
+"71","ASIN",NA,NA,NA,NA,NA,NA
+"72","ASIN12",47,"Asimina incana (W. Bartram) Exell","woolly pawpaw","Asimina","Annonaceae","mixed hardwood"
+"73","ASPA18",NA,NA,NA,NA,NA,NA
+"74","ASTR",49,"Asimina triloba (L.) Dunal","pawpaw","Asimina","Annonaceae","mixed hardwood"
+"75","ATCA2",NA,NA,NA,NA,NA,NA
+"76","ATCO",NA,NA,NA,NA,NA,NA
+"77","BEAL2",51,"Betula alleghaniensis Britton","yellow birch","Betula","Betulaceae","soft maple/birch"
+"78","BECAC",NA,NA,NA,NA,NA,NA
+"79","BEDI2",NA,NA,NA,NA,NA,NA
+"80","BEGL",NA,NA,NA,NA,NA,NA
+"81","BEGL/BENA",NA,NA,NA,NA,NA,NA
+"82","BELE",52,"Betula lenta L.","sweet birch","Betula","Betulaceae","soft maple/birch"
+"83","BENE4",NA,NA,NA,NA,NA,NA
+"84","BENI",53,"Betula nigra L.","river birch","Betula","Betulaceae","soft maple/birch"
+"85","BEOC2",NA,NA,NA,NA,NA,NA
+"86","BEPA",54,"Betula papyrifera Marshall","paper birch","Betula","Betulaceae","soft maple/birch"
+"87","BEPAC2",56,"Betula papyrifera Marshall var. cordifolia (Regel) Fernald","mountain paper birch","Betula","Betulaceae","soft maple/birch"
+"88","BEPAP",61,"Betula papyrifera Marshall var. papyrifera","paper birch","Betula","Betulaceae","soft maple/birch"
+"89","BEPO",65,"Betula populifolia Marshall","gray birch","Betula","Betulaceae","soft maple/birch"
+"90","BERA3",NA,NA,NA,NA,NA,NA
+"91","BESC",NA,NA,NA,NA,NA,NA
+"92","BETH",NA,NA,NA,NA,NA,NA
+"93","BETUL",69,"Betula L.","birch","Betula","Betulaceae","soft maple/birch"
+"94","BICA",NA,NA,NA,NA,NA,NA
+"95","BIGNO",NA,NA,NA,NA,NA,NA
+"96","BOSU2",NA,NA,NA,NA,NA,NA
+"97","BOURR",NA,NA,NA,NA,NA,NA
+"98","BOURRSPP",NA,NA,NA,NA,NA,NA
+"99","BRAR6",NA,NA,NA,NA,NA,NA
+"100","BROV4",NA,NA,NA,NA,NA,NA
+"101","BUBU",NA,NA,NA,NA,NA,NA
+"102","BUGL",NA,NA,NA,NA,NA,NA
+"103","BUMI6",NA,NA,NA,NA,NA,NA
+"104","BUSI",NA,NA,NA,NA,NA,NA
+"105","BUTIA",NA,NA,NA,NA,NA,NA
+"106","CAAC3",NA,NA,NA,NA,NA,NA
+"107","CAAM2",73,"Callicarpa americana L.","American beautyberry","Callicarpa","Verbenaceae","woodland"
+"108","CAAQ2",77,"Carya aquatica (Michx. f.) Nutt.","water hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"109","CACA18",79,"Carpinus caroliniana Walter","American hornbeam","Carpinus","Betulaceae","mixed hardwood"
+"110","CACA38",NA,NA,NA,NA,NA,NA
+"111","CACAV",NA,NA,NA,NA,NA,NA
+"112","CACO15",80,"Carya cordiformis (Wangenh.) K. Koch","bitternut hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"113","CACY",NA,NA,NA,NA,NA,NA
+"114","CADE12",84,"Castanea dentata (Marshall) Borkh.","American chestnut","Castanea","Fagaceae","mixed hardwood"
+"115","CADE27",NA,NA,NA,NA,NA,NA
+"116","CAFL2",NA,NA,NA,NA,NA,NA
+"117","CAFL22",85,"Calycanthus floridus L.","eastern sweetshrub","Calycanthus","Calycanthaceae","woodland"
+"118","CAGL8",89,"Carya glabra (Mill.) Sweet","pignut hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"119","CAHA9",NA,NA,NA,NA,NA,NA
+"120","CAIL2",NA,NA,NA,NA,NA,NA
+"121","CAIN5",NA,NA,NA,NA,NA,NA
+"122","CAOD3",NA,NA,NA,NA,NA,NA
+"123","CAOV2",103,"Carya ovata (Mill.) K. Koch","shagbark hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"124","CAOV3",111,"Carya ovalis (Wangenh.) Sarg.","red hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"125","CAPA24",118,"Carya pallida (Ashe) Engl. & Graebn.","sand hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"126","CAPA43",NA,NA,NA,NA,NA,NA
+"127","CARA2",NA,NA,NA,NA,NA,NA
+"128","CARNE2",NA,NA,NA,NA,NA,NA
+"129","CARYA",122,"Carya Nutt.","hybrid hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"130","CASTA",NA,NA,NA,NA,NA,NA
+"131","CASY2",NA,NA,NA,NA,NA,NA
+"132","CATO6",123,"Carya tomentosa (Lam.) Nutt.","mockernut hickory","Carya","Juglandaceae","hard maple/oak/hickory/beech"
+"133","CAWI",NA,NA,NA,NA,NA,NA
+"134","CAXY",NA,NA,NA,NA,NA,NA
+"135","CEANO",NA,NA,NA,NA,NA,NA
+"136","CECA",NA,NA,NA,NA,NA,NA
+"137","CECA4",129,"Cercis canadensis L.","eastern redbud","Cercis","Fabaceae","mixed hardwood"
+"138","CECAC",130,"Cercis canadensis L. var. canadensis","eastern redbud","Cercis","Fabaceae","mixed hardwood"
+"139","CECO",NA,NA,NA,NA,NA,NA
+"140","CECU",NA,NA,NA,NA,NA,NA
+"141","CEIN3",NA,NA,NA,NA,NA,NA
+"142","CELA",132,"Celtis laevigata Willd.","sugarberry","Celtis","Ulmaceae","mixed hardwood"
+"143","CELE2",NA,NA,NA,NA,NA,NA
+"144","CELTI",133,"Celtis L.","hackberry","Celtis","Ulmaceae","mixed hardwood"
+"145","CEMOG",NA,NA,NA,NA,NA,NA
+"146","CENI",NA,NA,NA,NA,NA,NA
+"147","CEOC",135,"Celtis occidentalis L.","common hackberry","Celtis","Ulmaceae","mixed hardwood"
+"148","CEOC2",NA,NA,NA,NA,NA,NA
+"149","CEOR7",NA,NA,NA,NA,NA,NA
+"150","CEPHA",NA,NA,NA,NA,NA,NA
+"151","CERCI2",NA,NA,NA,NA,NA,NA
+"152","CHAL8",NA,NA,NA,NA,NA,NA
+"153","CHSE11",NA,NA,NA,NA,NA,NA
+"154","CHSI",NA,NA,NA,NA,NA,NA
+"155","CHTR2",NA,NA,NA,NA,NA,NA
+"156","CHVI8",NA,NA,NA,NA,NA,NA
+"157","CIBOT",NA,NA,NA,NA,NA,NA
+"158","CIGL",NA,NA,NA,NA,NA,NA
+"159","CIME8",NA,NA,NA,NA,NA,NA
+"160","CITR2",NA,NA,NA,NA,NA,NA
+"161","CLAC3",146,"Clethra acuminata Michx.","mountain sweetpepperbush","Clethra","Clethraceae","woodland"
+"162","CLADR",NA,NA,NA,NA,NA,NA
+"163","CLETH",147,"Clethra L.","sweetpepperbush","Clethra","Clethraceae","woodland"
+"164","CLMO5",NA,NA,NA,NA,NA,NA
+"165","CLTE3",NA,NA,NA,NA,NA,NA
+"166","COAL2",NA,NA,NA,NA,NA,NA
+"167","COAM2",148,"Cornus amomum Mill.","silky dogwood","Cornus","Cornaceae","woodland"
+"168","COAM3",NA,NA,NA,NA,NA,NA
+"169","COAR3",NA,NA,NA,NA,NA,NA
+"170","COCA",NA,NA,NA,NA,NA,NA
+"171","COCCO",NA,NA,NA,NA,NA,NA
+"172","COCO5",NA,NA,NA,NA,NA,NA
+"173","COCO6",153,"Corylus cornuta Marshall","beaked hazelnut","Corylus","Betulaceae","woodland"
+"174","COCOC",NA,NA,NA,NA,NA,NA
+"175","CODI8",NA,NA,NA,NA,NA,NA
+"176","CODO",NA,NA,NA,NA,NA,NA
+"177","CODR",NA,NA,NA,NA,NA,NA
+"178","COEL2",NA,NA,NA,NA,NA,NA
+"179","COER3",NA,NA,NA,NA,NA,NA
+"180","COFL2",154,"Cornus florida L.","flowering dogwood","Cornus","Cornaceae","mixed hardwood"
+"181","COFO",158,"Cornus foemina Mill.","stiff dogwood","Cornus","Cornaceae","mixed hardwood"
+"182","COKR",NA,NA,NA,NA,NA,NA
+"183","COLUB",NA,NA,NA,NA,NA,NA
+"184","COMI",NA,NA,NA,NA,NA,NA
+"185","COMPT",NA,NA,NA,NA,NA,NA
+"186","CONU4",NA,NA,NA,NA,NA,NA
+"187","CONVOL",NA,NA,NA,NA,NA,NA
+"188","COOC3",NA,NA,NA,NA,NA,NA
+"189","COPE80",NA,NA,NA,NA,NA,NA
+"190","COPRO",NA,NA,NA,NA,NA,NA
+"191","COPROSPP",NA,NA,NA,NA,NA,NA
+"192","CORNU",168,"Cornus L.","dogwood","Cornus","Cornaceae","mixed hardwood"
+"193","CORNUSPP",NA,NA,NA,NA,NA,NA
+"194","CORYP",NA,NA,NA,NA,NA,NA
+"195","COSE16",NA,NA,NA,NA,NA,NA
+"196","CRATA",169,"Crataegus L.","hawthorn","Crataegus","Rosaceae","woodland"
+"197","CRATASPP",NA,NA,NA,NA,NA,NA
+"198","CRBE4",NA,NA,NA,NA,NA,NA
+"199","CRCH",NA,NA,NA,NA,NA,NA
+"200","CRCR2",NA,NA,NA,NA,NA,NA
+"201","CRDI8",NA,NA,NA,NA,NA,NA
+"202","CRFL2",NA,NA,NA,NA,NA,NA
+"203","CRFL23",NA,NA,NA,NA,NA,NA
+"204","CRLU2",NA,NA,NA,NA,NA,NA
+"205","CRMA3",NA,NA,NA,NA,NA,NA
+"206","CROSS",NA,NA,NA,NA,NA,NA
+"207","CROTO",NA,NA,NA,NA,NA,NA
+"208","CROTOSPP",NA,NA,NA,NA,NA,NA
+"209","CRRH",NA,NA,NA,NA,NA,NA
+"210","CRSP",NA,NA,NA,NA,NA,NA
+"211","CRUN",NA,NA,NA,NA,NA,NA
+"212","CYFU10",NA,NA,NA,NA,NA,NA
+"213","CYIM2",NA,NA,NA,NA,NA,NA
+"214","CYLIN2",NA,NA,NA,NA,NA,NA
+"215","DAFR6",NA,NA,NA,NA,NA,NA
+"216","DAFRF",NA,NA,NA,NA,NA,NA
+"217","DAWR2",NA,NA,NA,NA,NA,NA
+"218","DIFR6",NA,NA,NA,NA,NA,NA
+"219","DILA10",NA,NA,NA,NA,NA,NA
+"220","DIOSP",NA,NA,NA,NA,NA,NA
+"221","DIPA9",NA,NA,NA,NA,NA,NA
+"222","DIVI5",180,"Diospyros virginiana L.","common persimmon","Diospyros","Ebenaceae","mixed hardwood"
+"223","DUSC",NA,NA,NA,NA,NA,NA
+"224","ECHIN3",NA,NA,NA,NA,NA,NA
+"225","ELAN",NA,NA,NA,NA,NA,NA
+"226","ELCO",NA,NA,NA,NA,NA,NA
+"227","ELUM",185,"Elaeagnus umbellata Thunb.","autumn olive","Elaeagnus","Elaeagnaceae","woodland"
+"228","EPTR",NA,NA,NA,NA,NA,NA
+"229","EPVI",NA,NA,NA,NA,NA,NA
+"230","ERAR17",NA,NA,NA,NA,NA,NA
+"231","ERBR11",NA,NA,NA,NA,NA,NA
+"232","ERFR4",NA,NA,NA,NA,NA,NA
+"233","ERICAC",NA,NA,NA,NA,NA,NA
+"234","ERNAN5",NA,NA,NA,NA,NA,NA
+"235","ERRO3",NA,NA,NA,NA,NA,NA
+"236","EUAM9",NA,NA,NA,NA,NA,NA
+"237","EUAT5",NA,NA,NA,NA,NA,NA
+"238","EUAX",NA,NA,NA,NA,NA,NA
+"239","EUFO3",NA,NA,NA,NA,NA,NA
+"240","EUFO5",NA,NA,NA,NA,NA,NA
+"241","EUGEN",NA,NA,NA,NA,NA,NA
+"242","EULI",NA,NA,NA,NA,NA,NA
+"243","EURH",NA,NA,NA,NA,NA,NA
+"244","EUXE",NA,NA,NA,NA,NA,NA
+"245","EXCA",NA,NA,NA,NA,NA,NA
+"246","FABACE",NA,NA,NA,NA,NA,NA
+"247","FAGR",189,"Fagus grandifolia Ehrh.","American beech","Fagus","Fagaceae","hard maple/oak/hickory/beech"
+"248","FEROC",NA,NA,NA,NA,NA,NA
+"249","FOAC",NA,NA,NA,NA,NA,NA
+"250","FRAM2",196,"Fraxinus americana L.","white ash","Fraxinus","Oleaceae","mixed hardwood"
+"251","FRAXI",198,"Fraxinus L.","ash","Fraxinus","Oleaceae","mixed hardwood"
+"252","FRCA13",199,"Frangula caroliniana (Walter) A. Gray","Carolina buckthorn","Frangula","Rhamnaceae","mixed hardwood"
+"253","FRCA3",NA,NA,NA,NA,NA,NA
+"254","FRCA6",NA,NA,NA,NA,NA,NA
+"255","FRCAC7",NA,NA,NA,NA,NA,NA
+"256","FRNI",202,"Fraxinus nigra Marshall","black ash","Fraxinus","Oleaceae","mixed hardwood"
+"257","FRPE",206,"Fraxinus pennsylvanica Marshall","green ash","Fraxinus","Oleaceae","mixed hardwood"
+"258","FRPU7",NA,NA,NA,NA,NA,NA
+"259","GABA",NA,NA,NA,NA,NA,NA
+"260","GADU",NA,NA,NA,NA,NA,NA
+"261","GAFR2",NA,NA,NA,NA,NA,NA
+"262","GASH",NA,NA,NA,NA,NA,NA
+"263","GAST2",NA,NA,NA,NA,NA,NA
+"264","GAUR",212,"Gaylussacia ursina (M.A. Curtis) Torr. & A. Gray ex A. Gray","bear huckleberry","Gaylussacia","Ericaceae","woodland"
+"265","GELSE",NA,NA,NA,NA,NA,NA
+"266","GIBI2",NA,NA,NA,NA,NA,NA
+"267","GLTR",NA,NA,NA,NA,NA,NA
+"268","GOLA",NA,NA,NA,NA,NA,NA
+"269","GUAIA",NA,NA,NA,NA,NA,NA
+"270","GUEL",NA,NA,NA,NA,NA,NA
+"271","GUETT",NA,NA,NA,NA,NA,NA
+"272","GUKR",NA,NA,NA,NA,NA,NA
+"273","GUOB",NA,NA,NA,NA,NA,NA
+"274","GUOF",NA,NA,NA,NA,NA,NA
+"275","GUSA",NA,NA,NA,NA,NA,NA
+"276","GUSA2",NA,NA,NA,NA,NA,NA
+"277","GYDI",NA,NA,NA,NA,NA,NA
+"278","GYLU",NA,NA,NA,NA,NA,NA
+"279","HACA2",NA,NA,NA,NA,NA,NA
+"280","HACA3",NA,NA,NA,NA,NA,NA
+"281","HADI3",214,"Halesia diptera Ellis","two-wing silverbell","Halesia","Styracaceae","mixed hardwood"
+"282","HALES",NA,NA,NA,NA,NA,NA
+"283","HATE3",216,"Halesia tetraptera Ellis","mountain silverbell","Halesia","Styracaceae","mixed hardwood"
+"284","HAVI2",NA,NA,NA,NA,NA,NA
+"285","HAVI4",NA,NA,NA,NA,NA,NA
+"286","HEHE",NA,NA,NA,NA,NA,NA
+"287","HEJA",NA,NA,NA,NA,NA,NA
+"288","HEPU17",NA,NA,NA,NA,NA,NA
+"289","HETE21",NA,NA,NA,NA,NA,NA
+"290","HODI",NA,NA,NA,NA,NA,NA
+"291","HYAR",NA,NA,NA,NA,NA,NA
+"292","HYBR3",NA,NA,NA,NA,NA,NA
+"293","HYDRAN",NA,NA,NA,NA,NA,NA
+"294","HYUN3",NA,NA,NA,NA,NA,NA
+"295","ILAN",NA,NA,NA,NA,NA,NA
+"296","ILAQ80",NA,NA,NA,NA,NA,NA
+"297","ILCA",NA,NA,NA,NA,NA,NA
+"298","ILCO",NA,NA,NA,NA,NA,NA
+"299","ILDE",NA,NA,NA,NA,NA,NA
+"300","ILEX",228,"Ilex L.","holly","Ilex","Aquifoliaceae","pine"
+"301","ILGL",NA,NA,NA,NA,NA,NA
+"302","ILLIC",NA,NA,NA,NA,NA,NA
+"303","ILMO",229,"Ilex montana Torr. & A. Gray ex A. Gray","mountain holly","Ilex","Aquifoliaceae","pine"
+"304","ILMU",235,"Ilex mucronata (L.) Powell, Savolainen & Andrews","catberry","Ilex","Aquifoliaceae","pine"
+"305","ILMY",NA,NA,NA,NA,NA,NA
+"306","ILOP",237,"Ilex opaca Aiton","American holly","Ilex","Aquifoliaceae","pine"
+"307","ILVE",244,"Ilex verticillata (L.) A. Gray","common winterberry","Ilex","Aquifoliaceae","pine"
+"308","ILVO",245,"Ilex vomitoria Aiton","yaupon","Ilex","Aquifoliaceae","pine"
+"309","IPST2",NA,NA,NA,NA,NA,NA
+"310","ITVI",NA,NA,NA,NA,NA,NA
+"311","JAAM",NA,NA,NA,NA,NA,NA
+"312","JAAR2",NA,NA,NA,NA,NA,NA
+"313","JABE",NA,NA,NA,NA,NA,NA
+"314","JACQU",NA,NA,NA,NA,NA,NA
+"315","JACQU2",NA,NA,NA,NA,NA,NA
+"316","JACU3",NA,NA,NA,NA,NA,NA
+"317","JAFL",NA,NA,NA,NA,NA,NA
+"318","JUCI",248,"Juglans cinerea L.","butternut","Juglans","Juglandaceae","mixed hardwood"
+"319","JUCO6",NA,NA,NA,NA,NA,NA
+"320","JUCOD",NA,NA,NA,NA,NA,NA
+"321","JUGLA",NA,NA,NA,NA,NA,NA
+"322","JUNI",249,"Juglans nigra L.","black walnut","Juglans","Juglandaceae","mixed hardwood"
+"323","JUNIP",NA,NA,NA,NA,NA,NA
+"324","JUOS",NA,NA,NA,NA,NA,NA
+"325","JUSC2",NA,NA,NA,NA,NA,NA
+"326","JUVI",251,"Juniperus virginiana L.","eastern redcedar","Juniperus","Cupressaceae","cedar/larch"
+"327","JUVIV",NA,NA,NA,NA,NA,NA
+"328","KALA",253,"Kalmia latifolia L.","mountain laurel","Kalmia","Ericaceae","woodland"
+"329","KALMI",254,"Kalmia L.","laurel","Kalmia","Ericaceae","woodland"
+"330","KRFE",NA,NA,NA,NA,NA,NA
+"331","KRLA2",NA,NA,NA,NA,NA,NA
+"332","LACA2",NA,NA,NA,NA,NA,NA
+"333","LAEX",NA,NA,NA,NA,NA,NA
+"334","LAGR",NA,NA,NA,NA,NA,NA
+"335","LAJAM",NA,NA,NA,NA,NA,NA
+"336","LALA",256,"Larix laricina (Du Roi) K. Koch","tamarack","Larix","Pinaceae","pine"
+"337","LANTA",NA,NA,NA,NA,NA,NA
+"338","LARE2",NA,NA,NA,NA,NA,NA
+"339","LARIX",NA,NA,NA,NA,NA,NA
+"340","LATR2",NA,NA,NA,NA,NA,NA
+"341","LEBI2",NA,NA,NA,NA,NA,NA
+"342","LEDUM",NA,NA,NA,NA,NA,NA
+"343","LELE10",NA,NA,NA,NA,NA,NA
+"344","LEPA11",NA,NA,NA,NA,NA,NA
+"345","LEQU",NA,NA,NA,NA,NA,NA
+"346","LIBE3",264,"Lindera benzoin (L.) Blume","northern spicebush","Lindera","Lauraceae","woodland"
+"347","LIBEB",NA,NA,NA,NA,NA,NA
+"348","LIJA",NA,NA,NA,NA,NA,NA
+"349","LISI",NA,NA,NA,NA,NA,NA
+"350","LIST",NA,NA,NA,NA,NA,NA
+"351","LIST2",266,"Liquidambar styraciflua L.","sweetgum","Liquidambar","Hamamelidaceae","mixed hardwood"
+"352","LITU",267,"Liriodendron tulipifera L.","tuliptree","Liriodendron","Magnoliaceae","mixed hardwood"
+"353","LIVU",NA,NA,NA,NA,NA,NA
+"354","LOIN4",NA,NA,NA,NA,NA,NA
+"355","LOJA",NA,NA,NA,NA,NA,NA
+"356","LOMA6",NA,NA,NA,NA,NA,NA
+"357","LOMO2",NA,NA,NA,NA,NA,NA
+"358","LONIC",NA,NA,NA,NA,NA,NA
+"359","LUAL4",NA,NA,NA,NA,NA,NA
+"360","LYFE",NA,NA,NA,NA,NA,NA
+"361","LYLI",NA,NA,NA,NA,NA,NA
+"362","LYLIL",NA,NA,NA,NA,NA,NA
+"363","LYLU3",NA,NA,NA,NA,NA,NA
+"364","LYONI",NA,NA,NA,NA,NA,NA
+"365","LYPA",NA,NA,NA,NA,NA,NA
+"366","MAAC",278,"Magnolia acuminata (L.) L.","cucumber tree","Magnolia","Magnoliaceae","mixed hardwood"
+"367","MAFR",280,"Magnolia fraseri Walter","mountain magnolia","Magnolia","Magnoliaceae","mixed hardwood"
+"368","MAGNO",281,"Magnolia L.","magnolia","Magnolia","Magnoliaceae","mixed hardwood"
+"369","MAIN3",NA,NA,NA,NA,NA,NA
+"370","MALUS",282,"Malus Mill.","apple","Malus","Rosaceae","mixed hardwood"
+"371","MAMA2",283,"Magnolia macrophylla Michx.","bigleaf magnolia","Magnolia","Magnoliaceae","mixed hardwood"
+"372","MAMMI",NA,NA,NA,NA,NA,NA
+"373","MANE2",NA,NA,NA,NA,NA,NA
+"374","MAPO",NA,NA,NA,NA,NA,NA
+"375","MAPO5",NA,NA,NA,NA,NA,NA
+"376","MAPO6",NA,NA,NA,NA,NA,NA
+"377","MATR",287,"Magnolia tripetala (L.) L.","umbrella-tree","Magnolia","Magnoliaceae","mixed hardwood"
+"378","MAUN3",NA,NA,NA,NA,NA,NA
+"379","MAVI2",289,"Magnolia virginiana L.","sweetbay","Magnolia","Magnoliaceae","mixed hardwood"
+"380","MEAZ",291,"Melia azedarach L.","Chinaberrytree","Melia","Meliaceae","mixed hardwood"
+"381","MEBI",NA,NA,NA,NA,NA,NA
+"382","MECL",NA,NA,NA,NA,NA,NA
+"383","MEFE",NA,NA,NA,NA,NA,NA
+"384","MELIC3",NA,NA,NA,NA,NA,NA
+"385","MEPO5",NA,NA,NA,NA,NA,NA
+"386","MERA2",NA,NA,NA,NA,NA,NA
+"387","MOAL",NA,NA,NA,NA,NA,NA
+"388","MOCE2",NA,NA,NA,NA,NA,NA
+"389","MORU",NA,NA,NA,NA,NA,NA
+"390","MORU2",293,"Morus rubra L.","red mulberry","Morus","Moraceae","mixed hardwood"
+"391","MORUS",NA,NA,NA,NA,NA,NA
+"392","MUEX2",NA,NA,NA,NA,NA,NA
+"393","MYLE2",NA,NA,NA,NA,NA,NA
+"394","MYSA",NA,NA,NA,NA,NA,NA
+"395","MYSA2",NA,NA,NA,NA,NA,NA
+"396","NYAQ2",297,"Nyssa aquatica L.","water tupelo","Nyssa","Cornaceae","mixed hardwood"
+"397","NYBI",NA,NA,NA,NA,NA,NA
+"398","NYSSA",NA,NA,NA,NA,NA,NA
+"399","NYSY",300,"Nyssa sylvatica Marshall","blackgum","Nyssa","Cornaceae","mixed hardwood"
+"400","OECE",NA,NA,NA,NA,NA,NA
+"401","OPEN3",NA,NA,NA,NA,NA,NA
+"402","OPPH",NA,NA,NA,NA,NA,NA
+"403","OPUNT",NA,NA,NA,NA,NA,NA
+"404","OSVI",303,"Ostrya virginiana (Mill.) K. Koch","hophornbeam","Ostrya","Betulaceae","mixed hardwood"
+"405","OTHE",NA,NA,NA,NA,NA,NA
+"406","OXAR",305,"Oxydendrum arboreum (L.) DC.","sourwood","Oxydendrum","Ericaceae","mixed hardwood"
+"407","OXYDE",NA,NA,NA,NA,NA,NA
+"408","PAIN2",NA,NA,NA,NA,NA,NA
+"409","PANAX",NA,NA,NA,NA,NA,NA
+"410","PAQU2",NA,NA,NA,NA,NA,NA
+"411","PARKI2",NA,NA,NA,NA,NA,NA
+"412","PATO2",320,"Paulownia tomentosa (Thunb.) Siebold & Zucc. ex Steud.","princesstree","Paulownia","Scrophulariaceae","mixed hardwood"
+"413","PEBO",NA,NA,NA,NA,NA,NA
+"414","PENIO",NA,NA,NA,NA,NA,NA
+"415","PEPA37",NA,NA,NA,NA,NA,NA
+"416","PHEP",NA,NA,NA,NA,NA,NA
+"417","PHHI2",NA,NA,NA,NA,NA,NA
+"418","PHPY4",NA,NA,NA,NA,NA,NA
+"419","PIAB",325,"Picea abies (L.) Karst.","Norway spruce","Picea","Pinaceae","spruce"
+"420","PIAC",NA,NA,NA,NA,NA,NA
+"421","PIAL3",NA,NA,NA,NA,NA,NA
+"422","PICEA",NA,NA,NA,NA,NA,NA
+"423","PICL",NA,NA,NA,NA,NA,NA
+"424","PICO",NA,NA,NA,NA,NA,NA
+"425","PICOL",NA,NA,NA,NA,NA,NA
+"426","PIDU",NA,NA,NA,NA,NA,NA
+"427","PIEC2",327,"Pinus echinata Mill.","shortleaf pine","Pinus","Pinaceae","pine"
+"428","PIED",NA,NA,NA,NA,NA,NA
+"429","PIEL",NA,NA,NA,NA,NA,NA
+"430","PIEN",NA,NA,NA,NA,NA,NA
+"431","PIFL2",NA,NA,NA,NA,NA,NA
+"432","PIGL",328,"Picea glauca (Moench) Voss","white spruce","Picea","Pinaceae","spruce"
+"433","PIGL2",330,"Pinus glabra Walter","spruce pine","Pinus","Pinaceae","pine"
+"434","PIJE",NA,NA,NA,NA,NA,NA
+"435","PILA",NA,NA,NA,NA,NA,NA
+"436","PIMA",331,"Picea mariana (Mill.) Britton, Sterns & Poggenb.","black spruce","Picea","Pinaceae","spruce"
+"437","PIMO3",NA,NA,NA,NA,NA,NA
+"438","PINACE",NA,NA,NA,NA,NA,NA
+"439","PINUS",333,"Pinus L.","pine","Pinus","Pinaceae","pine"
+"440","PIPA2",334,"Pinus palustris Mill.","longleaf pine","Pinus","Pinaceae","pine"
+"441","PIPO",NA,NA,NA,NA,NA,NA
+"442","PIPOS",NA,NA,NA,NA,NA,NA
+"443","PIPU5",336,"Pinus pungens Lamb.","Table Mountain pine","Pinus","Pinaceae","pine"
+"444","PIRE",337,"Pinus resinosa Aiton","red pine","Pinus","Pinaceae","pine"
+"445","PIRI",338,"Pinus rigida Mill.","pitch pine","Pinus","Pinaceae","pine"
+"446","PIRO6",NA,NA,NA,NA,NA,NA
+"447","PIRU",340,"Picea rubens Sarg.","red spruce","Picea","Pinaceae","spruce"
+"448","PISA2",NA,NA,NA,NA,NA,NA
+"449","PIST",342,"Pinus strobus L.","eastern white pine","Pinus","Pinaceae","pine"
+"450","PITA",343,"Pinus taeda L.","loblolly pine","Pinus","Pinaceae","pine"
+"451","PIUN",NA,NA,NA,NA,NA,NA
+"452","PIVI2",344,"Pinus virginiana Mill.","Virginia pine","Pinus","Pinaceae","pine"
+"453","PLAL",NA,NA,NA,NA,NA,NA
+"454","PLAQ",NA,NA,NA,NA,NA,NA
+"455","PLOC",346,"Platanus occidentalis L.","American sycamore","Platanus","Platanaceae","mixed hardwood"
+"456","POA",NA,NA,NA,NA,NA,NA
+"457","POBA2",NA,NA,NA,NA,NA,NA
+"458","PODE3",NA,NA,NA,NA,NA,NA
+"459","POFL20",NA,NA,NA,NA,NA,NA
+"460","POGR4",349,"Populus grandidentata Michx.","bigtooth aspen","Populus","Salicaceae","aspen/alder/cottonwood/willow"
+"461","POPA34",NA,NA,NA,NA,NA,NA
+"462","POPUL",NA,NA,NA,NA,NA,NA
+"463","POTR4",351,"Poncirus trifoliata (L.) Raf.","hardy orange","Poncirus","Rutaceae","mixed hardwood"
+"464","POTR5",360,"Populus tremuloides Michx.","quaking aspen","Populus","Salicaceae","aspen/alder/cottonwood/willow"
+"465","PRAM",NA,NA,NA,NA,NA,NA
+"466","PRAN3",NA,NA,NA,NA,NA,NA
+"467","PRAV",366,"Prunus avium (L.) L.","sweet cherry","Prunus","Rosaceae","mixed hardwood"
+"468","PREM",NA,NA,NA,NA,NA,NA
+"469","PRENA",NA,NA,NA,NA,NA,NA
+"470","PRGL2",NA,NA,NA,NA,NA,NA
+"471","PRME",NA,NA,NA,NA,NA,NA
+"472","PRPE2",NA,NA,NA,NA,NA,NA
+"473","PRPEP",NA,NA,NA,NA,NA,NA
+"474","PRSE",NA,NA,NA,NA,NA,NA
+"475","PRSE2",371,"Prunus serotina Ehrh.","black cherry","Prunus","Rosaceae","mixed hardwood"
+"476","PRSES",NA,NA,NA,NA,NA,NA
+"477","PRUM",NA,NA,NA,NA,NA,NA
+"478","PRUNU",372,"Prunus L.","plum","Prunus","Rosaceae","mixed hardwood"
+"479","PRVE",NA,NA,NA,NA,NA,NA
+"480","PRVI",373,"Prunus virginiana L.","chokecherry","Prunus","Rosaceae","mixed hardwood"
+"481","PSME",NA,NA,NA,NA,NA,NA
+"482","PSMEM",NA,NA,NA,NA,NA,NA
+"483","PUST",NA,NA,NA,NA,NA,NA
+"484","PUTR2",NA,NA,NA,NA,NA,NA
+"485","PYCA80",NA,NA,NA,NA,NA,NA
+"486","PYPU",NA,NA,NA,NA,NA,NA
+"487","PYRUS",NA,NA,NA,NA,NA,NA
+"488","QUAL",377,"Quercus alba L.","white oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"489","QUBI",378,"Quercus bicolor Willd.","swamp white oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"490","QUCH",NA,NA,NA,NA,NA,NA
+"491","QUCH2",NA,NA,NA,NA,NA,NA
+"492","QUCO2",379,"Quercus coccinea Münchh.","scarlet oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"493","QUDO",NA,NA,NA,NA,NA,NA
+"494","QUERC",380,"Quercus L.","oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"495","QUERCSPP",NA,NA,NA,NA,NA,NA
+"496","QUFA",383,"Quercus falcata Michx.","southern red oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"497","QUFU",NA,NA,NA,NA,NA,NA
+"498","QUGE2",384,"Quercus geminata Small","sand live oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"499","QUHE",NA,NA,NA,NA,NA,NA
+"500","QUHE2",387,"Quercus hemisphaerica W. Bartram ex Willd.","Darlington oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"501","QUIN",NA,NA,NA,NA,NA,NA
+"502","QUIN7",NA,NA,NA,NA,NA,NA
+"503","QUKE",NA,NA,NA,NA,NA,NA
+"504","QULA",NA,NA,NA,NA,NA,NA
+"505","QULA2",389,"Quercus laevis Walter","turkey oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"506","QULA3",393,"Quercus laurifolia Michx.","laurel oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"507","QULY",395,"Quercus lyrata Walter","overcup oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"508","QUMA13",NA,NA,NA,NA,NA,NA
+"509","QUMA2",NA,NA,NA,NA,NA,NA
+"510","QUMA3",396,"Quercus marilandica Münchh.","blackjack oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"511","QUMI",399,"Quercus michauxii Nutt.","swamp chestnut oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"512","QUMI2",NA,NA,NA,NA,NA,NA
+"513","QUMO4",400,"Quercus montana Willd.","chestnut oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"514","QUMU",NA,NA,NA,NA,NA,NA
+"515","QUMY",NA,NA,NA,NA,NA,NA
+"516","QUNE",402,"Quercus ×neopalmeri Sudw. ex Palmer","hybrid oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"517","QUNI",403,"Quercus nigra L.","water oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"518","QUPA",406,"Quercus ×palaeolithicola Trel.","hybrid oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"519","QUPA5",407,"Quercus pagoda Raf.","cherrybark oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"520","QUPH",411,"Quercus phellos L.","willow oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"521","QUPU80",NA,NA,NA,NA,NA,NA
+"522","QURU",412,"Quercus rubra L.","northern red oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"523","QURUR",413,"Quercus rubra L. var. rubra","northern red oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"524","QUSH",NA,NA,NA,NA,NA,NA
+"525","QUST",418,"Quercus stellata Wangenh.","post oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"526","QUVE",420,"Quercus velutina Lam.","black oak","Quercus","Fagaceae","hard maple/oak/hickory/beech"
+"527","QUVI",NA,NA,NA,NA,NA,NA
+"528","QUWI2",NA,NA,NA,NA,NA,NA
+"529","RAAC",NA,NA,NA,NA,NA,NA
+"530","RAPO2",NA,NA,NA,NA,NA,NA
+"531","REGU",NA,NA,NA,NA,NA,NA
+"532","REUN",NA,NA,NA,NA,NA,NA
+"533","RHAMN",NA,NA,NA,NA,NA,NA
+"534","RHAMNA",NA,NA,NA,NA,NA,NA
+"535","RHAR4",NA,NA,NA,NA,NA,NA
+"536","RHCA7",NA,NA,NA,NA,NA,NA
+"537","RHCO",NA,NA,NA,NA,NA,NA
+"538","RHDA",NA,NA,NA,NA,NA,NA
+"539","RHGL",NA,NA,NA,NA,NA,NA
+"540","RHIL",NA,NA,NA,NA,NA,NA
+"541","RHMA4",424,"Rhododendron maximum L.","great laurel","Rhododendron","Ericaceae","woodland"
+"542","RHODO",NA,NA,NA,NA,NA,NA
+"543","RHPE4",NA,NA,NA,NA,NA,NA
+"544","RHSC3",NA,NA,NA,NA,NA,NA
+"545","RHTY",NA,NA,NA,NA,NA,NA
+"546","RHUS",NA,NA,NA,NA,NA,NA
+"547","RIBES",NA,NA,NA,NA,NA,NA
+"548","RICE",NA,NA,NA,NA,NA,NA
+"549","RIMI",NA,NA,NA,NA,NA,NA
+"550","RIRO",NA,NA,NA,NA,NA,NA
+"551","ROAC2",NA,NA,NA,NA,NA,NA
+"552","ROAR3",NA,NA,NA,NA,NA,NA
+"553","ROGY",NA,NA,NA,NA,NA,NA
+"554","ROIN4",NA,NA,NA,NA,NA,NA
+"555","ROMU",NA,NA,NA,NA,NA,NA
+"556","ROPS",434,"Robinia pseudoacacia L.","black locust","Robinia","Fabaceae","mixed hardwood"
+"557","RUAL",NA,NA,NA,NA,NA,NA
+"558","RUAR9",NA,NA,NA,NA,NA,NA
+"559","RUBUS",NA,NA,NA,NA,NA,NA
+"560","RUHA",NA,NA,NA,NA,NA,NA
+"561","RULA",NA,NA,NA,NA,NA,NA
+"562","RULE",NA,NA,NA,NA,NA,NA
+"563","RUOC",NA,NA,NA,NA,NA,NA
+"564","RUOK",NA,NA,NA,NA,NA,NA
+"565","RUPA",NA,NA,NA,NA,NA,NA
+"566","RUPH",NA,NA,NA,NA,NA,NA
+"567","RUSP",NA,NA,NA,NA,NA,NA
+"568","SAAL",NA,NA,NA,NA,NA,NA
+"569","SAAL5",440,"Sassafras albidum (Nutt.) Nees","sassafras","Sassafras","Lauraceae","mixed hardwood"
+"570","SABE2",NA,NA,NA,NA,NA,NA
+"571","SACA4",NA,NA,NA,NA,NA,NA
+"572","SACY3",NA,NA,NA,NA,NA,NA
+"573","SAET",NA,NA,NA,NA,NA,NA
+"574","SAGL",NA,NA,NA,NA,NA,NA
+"575","SALIX",450,"Salix L.","willow","Salix","Salicaceae","mixed hardwood"
+"576","SAMBU",NA,NA,NA,NA,NA,NA
+"577","SAMI8",455,"Sabal minor (Jacq.) Pers.","dwarf palmetto","Sabal","Arecaceae","woodland"
+"578","SAMY",NA,NA,NA,NA,NA,NA
+"579","SANI",NA,NA,NA,NA,NA,NA
+"580","SANI4",457,"Sambucus nigra L.","black elderberry","Sambucus","Caprifoliaceae","mixed hardwood"
+"581","SANIC5",NA,NA,NA,NA,NA,NA
+"582","SAPA11",NA,NA,NA,NA,NA,NA
+"583","SAPE5",NA,NA,NA,NA,NA,NA
+"584","SAPU15",NA,NA,NA,NA,NA,NA
+"585","SARA2",NA,NA,NA,NA,NA,NA
+"586","SARA2/SANI4",NA,NA,NA,NA,NA,NA
+"587","SARI4",NA,NA,NA,NA,NA,NA
+"588","SASC",NA,NA,NA,NA,NA,NA
+"589","SASE6",NA,NA,NA,NA,NA,NA
+"590","SASO2",NA,NA,NA,NA,NA,NA
+"591","SASSA",NA,NA,NA,NA,NA,NA
+"592","SAVE4",NA,NA,NA,NA,NA,NA
+"593","SCFR",NA,NA,NA,NA,NA,NA
+"594","SEFL3",NA,NA,NA,NA,NA,NA
+"595","SEPO4",NA,NA,NA,NA,NA,NA
+"596","SERE2",462,"Serenoa repens (W. Bartram) Small","saw palmetto","Serenoa","Arecaceae","woodland"
+"597","SESI3",NA,NA,NA,NA,NA,NA
+"598","SHAR",NA,NA,NA,NA,NA,NA
+"599","SHCA",NA,NA,NA,NA,NA,NA
+"600","SIDER2",NA,NA,NA,NA,NA,NA
+"601","SILA20",NA,NA,NA,NA,NA,NA
+"602","SILAL3",NA,NA,NA,NA,NA,NA
+"603","SILY",NA,NA,NA,NA,NA,NA
+"604","SIOB",NA,NA,NA,NA,NA,NA
+"605","SISA6",NA,NA,NA,NA,NA,NA
+"606","SITE2",NA,NA,NA,NA,NA,NA
+"607","SMAU",NA,NA,NA,NA,NA,NA
+"608","SMGL",NA,NA,NA,NA,NA,NA
+"609","SMILA2",NA,NA,NA,NA,NA,NA
+"610","SMLA",NA,NA,NA,NA,NA,NA
+"611","SMRO",NA,NA,NA,NA,NA,NA
+"612","SMSM",NA,NA,NA,NA,NA,NA
+"613","SOAM3",468,"Sorbus americana Marshall","American mountain ash","Sorbus","Rosaceae","mixed hardwood"
+"614","SORBU",NA,NA,NA,NA,NA,NA
+"615","SPALL",NA,NA,NA,NA,NA,NA
+"616","SPDOD",NA,NA,NA,NA,NA,NA
+"617","SPST3",NA,NA,NA,NA,NA,NA
+"618","STAM4",NA,NA,NA,NA,NA,NA
+"619","STEM3",NA,NA,NA,NA,NA,NA
+"620","STFL5",NA,NA,NA,NA,NA,NA
+"621","STTA",NA,NA,NA,NA,NA,NA
+"622","SWMA2",NA,NA,NA,NA,NA,NA
+"623","SYAL",NA,NA,NA,NA,NA,NA
+"624","SYMPL2",NA,NA,NA,NA,NA,NA
+"625","SYOC",NA,NA,NA,NA,NA,NA
+"626","SYOR",NA,NA,NA,NA,NA,NA
+"627","TABR2",NA,NA,NA,NA,NA,NA
+"628","TADI2",475,"Taxodium distichum (L.) Rich.","bald cypress","Taxodium","Cupressaceae","cedar/larch"
+"629","TAHE",NA,NA,NA,NA,NA,NA
+"630","TAXUS",NA,NA,NA,NA,NA,NA
+"631","TECA2",NA,NA,NA,NA,NA,NA
+"632","TEDA",NA,NA,NA,NA,NA,NA
+"633","TEGL",NA,NA,NA,NA,NA,NA
+"634","TETRA3",NA,NA,NA,NA,NA,NA
+"635","THPL",NA,NA,NA,NA,NA,NA
+"636","THSTP",NA,NA,NA,NA,NA,NA
+"637","THUJA",NA,NA,NA,NA,NA,NA
+"638","TIAM",481,"Tilia americana L.","American basswood","Tilia","Tiliaceae","mixed hardwood"
+"639","TODI",NA,NA,NA,NA,NA,NA
+"640","TORA2",NA,NA,NA,NA,NA,NA
+"641","TOVE",NA,NA,NA,NA,NA,NA
+"642","TOVO",NA,NA,NA,NA,NA,NA
+"643","TRDA3",NA,NA,NA,NA,NA,NA
+"644","TRSE6",NA,NA,NA,NA,NA,NA
+"645","TSCA",485,"Tsuga canadensis (L.) Carrière","eastern hemlock","Tsuga","Pinaceae","fir/hemlock"
+"646","TSHE",NA,NA,NA,NA,NA,NA
+"647","TUDI",NA,NA,NA,NA,NA,NA
+"648","ULAL",486,"Ulmus alata Michx.","winged elm","Ulmus","Ulmaceae","mixed hardwood"
+"649","ULAM",487,"Ulmus americana L.","American elm","Ulmus","Ulmaceae","mixed hardwood"
+"650","ULCR",NA,NA,NA,NA,NA,NA
+"651","ULMUS",490,"Ulmus L.","elm","Ulmus","Ulmaceae","mixed hardwood"
+"652","ULMUSSPP",NA,NA,NA,NA,NA,NA
+"653","ULPU",NA,NA,NA,NA,NA,NA
+"654","ULRU",491,"Ulmus rubra Muhl.","slippery elm","Ulmus","Ulmaceae","mixed hardwood"
+"655","VAAR",496,"Vaccinium arboreum Marshall","farkleberry","Vaccinium","Ericaceae","woodland"
+"656","VACA8",NA,NA,NA,NA,NA,NA
+"657","VACCI",497,"Vaccinium L.","blueberry","Vaccinium","Ericaceae","woodland"
+"658","VACO",500,"Vaccinium corymbosum L.","highbush blueberry","Vaccinium","Ericaceae","woodland"
+"659","VAFU",NA,NA,NA,NA,NA,NA
+"660","VAME",NA,NA,NA,NA,NA,NA
+"661","VAOV",NA,NA,NA,NA,NA,NA
+"662","VAPA",NA,NA,NA,NA,NA,NA
+"663","VAPA4",NA,NA,NA,NA,NA,NA
+"664","VARE",NA,NA,NA,NA,NA,NA
+"665","VAST",NA,NA,NA,NA,NA,NA
+"666","VAUL",NA,NA,NA,NA,NA,NA
+"667","VIAC",541,"Viburnum acerifolium L.","mapleleaf viburnum","Viburnum","Caprifoliaceae","woodland"
+"668","VIAE",NA,NA,NA,NA,NA,NA
+"669","VIBUR",544,"Viburnum L.","viburnum","Viburnum","Caprifoliaceae","woodland"
+"670","VICI2",NA,NA,NA,NA,NA,NA
+"671","VIDE",NA,NA,NA,NA,NA,NA
+"672","VILA",547,"Viburnum lantana L.","wayfaringtree","Viburnum","Caprifoliaceae","woodland"
+"673","VILA11",550,"Viburnum lantanoides Michx.","hobblebush","Viburnum","Caprifoliaceae","woodland"
+"674","VINU",551,"Viburnum nudum L.","possumhaw","Viburnum","Caprifoliaceae","woodland"
+"675","VINUC",NA,NA,NA,NA,NA,NA
+"676","VIOLA",NA,NA,NA,NA,NA,NA
+"677","VIPA7",NA,NA,NA,NA,NA,NA
+"678","VIPR",554,"Viburnum prunifolium L.","blackhaw","Viburnum","Caprifoliaceae","woodland"
+"679","VIRI",NA,NA,NA,NA,NA,NA
+"680","VIRO3",NA,NA,NA,NA,NA,NA
+"681","VIRU",NA,NA,NA,NA,NA,NA
+"682","VITIS",NA,NA,NA,NA,NA,NA
+"683","VITISSPP",NA,NA,NA,NA,NA,NA
+"684","WEFR",NA,NA,NA,NA,NA,NA
+"685","WISTE",NA,NA,NA,NA,NA,NA
+"686","YUEL",NA,NA,NA,NA,NA,NA
+"687","ZAAM",NA,NA,NA,NA,NA,NA
+"688","ZAPO2",NA,NA,NA,NA,NA,NA
+"689","ZIAC",NA,NA,NA,NA,NA,NA
+"690","ZIRE",NA,NA,NA,NA,NA,NA

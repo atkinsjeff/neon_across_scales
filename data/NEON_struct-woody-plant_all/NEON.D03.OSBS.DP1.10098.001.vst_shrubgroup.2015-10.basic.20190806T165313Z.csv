@@ -1,0 +1,2 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"122ed96f-575c-4be6-ab1d-75065da99554","OSBS_017.basePlot.vst","2015-10-07","vst_OSBS_2015","D03","OSBS","OSBS_017","31",,"31 _0","LYLU3","Lyonia lucida (Lam.) K. Koch","species",,,100,95,5,76.0,2.26,"tag 793","psoucy@field-ops.org, mmugnani@field-ops.org","jkilmer@field-ops.org","legacyData"

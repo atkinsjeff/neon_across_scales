@@ -1,0 +1,2 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"0a87e23d-3147-47fe-b2f8-8b42e3ff9cc3","KONZ_049.basePlot.vst","2015-09-22","vst_KONZ_2015","D06","KONZ","KONZ_049","31",,"31 _0","RHAR4","Rhus aromatica Aiton","species",,,100,50,50,5.0,1.72,,"kculatta@field-ops.org; nstanton@neoninc.org; mnoland@field-ops.org","sgrischkowsky@field-ops.org","legacyData"

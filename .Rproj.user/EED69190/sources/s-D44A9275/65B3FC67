@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582125033124.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "65B3FC67",
+    "lastKnownWriteTime" : 1554128559,
+    "last_content_update" : 1554128559,
+    "path" : "D:/R_projects/NEON_csc_npp/01_neon_csc_npp_main.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "203,0",
+        "scrollLine" : "172"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

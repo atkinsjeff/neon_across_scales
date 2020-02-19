@@ -1,0 +1,2 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"95af7d48-0158-40d4-b2ab-af74a7cd27d9","SRER_054.basePlot.vst","2016-12-16","vst_SRER_2016","D14","SRER","SRER_054","41",,"41_01","CEEH","Celtis ehrenbergiana (Klotzsch) Liebm.","species",,,100,90,10,11.0,1.54,,"tmull@field-ops.org","nmiller@field-ops.org",

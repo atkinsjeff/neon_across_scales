@@ -1,0 +1,2 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"39cbd56c-bae7-41ee-8aba-fa7fdb0e1206","GRSM_013.basePlot.vst","2016-10-20","vst_GRSM_2016","D07","GRSM","GRSM_013","40",,"40_01","RHODO","Rhododendron sp.","genus",,,100,100,0,40.0,1.60,,"aferchaud@field-ops.org","mcumberland@field-ops.org",

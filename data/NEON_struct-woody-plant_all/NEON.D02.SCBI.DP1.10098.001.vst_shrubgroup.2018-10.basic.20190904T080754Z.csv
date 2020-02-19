@@ -1,0 +1,3 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"15470282-400a-46ae-999a-71174296082d","SCBI_051.basePlot.vst","2018-10-04","vst_SCBI_2018","D02","SCBI","SCBI_051","39","1","39_01","LIBE3","Lindera benzoin (L.) Blume","species",,,5,100,0,6.0,1.62,,"jporta@BattelleEcology.org","llemmon@field-ops.org",
+"7fb738e1-9bcb-4d20-9f62-29eda0736e41","SCBI_051.basePlot.vst","2018-10-04","vst_SCBI_2018","D02","SCBI","SCBI_051","39","1","39_01","BETH","Berberis thunbergii DC.","species",,,95,100,0,6.0,1.62,,"jporta@BattelleEcology.org","llemmon@field-ops.org",

@@ -1,0 +1,3 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"b76fb8d0-a6d1-4856-b43e-298698c58b10","SERC_055.basePlot.vst","2018-11-08","vst_SERC_2018","D02","SERC","SERC_055","41","1","41_01","ROMU","Rosa multiflora Thunb.","species",,,90,5,95,6.3,3.08,,,,
+"2122e1c2-4d29-4002-af90-452a1eed736a","SERC_055.basePlot.vst","2018-11-08","vst_SERC_2018","D02","SERC","SERC_055","41","1","41_01","LOJA","Lonicera japonica Thunb.","species",,,10,70,30,6.3,3.08,,,,

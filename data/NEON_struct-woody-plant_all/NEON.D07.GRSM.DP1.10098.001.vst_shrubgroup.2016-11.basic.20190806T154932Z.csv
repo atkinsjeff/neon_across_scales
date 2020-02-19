@@ -1,0 +1,2 @@
+uid,namedLocation,date,eventID,domainID,siteID,plotID,subplotID,nestedSubplotID,groupID,taxonID,scientificName,taxonRank,identificationReferences,identificationQualifier,volumePercent,livePercent,deadPercent,canopyArea,meanHeight,remarks,measuredBy,recordedBy,dataQF
+"0f541d7b-d243-4313-bb24-0cab3364eb5c","GRSM_059.basePlot.vst","2016-11-03","vst_GRSM_2016","D07","GRSM","GRSM_059","21","1","21_01","RHODO","Rhododendron sp.","genus",,,100,100,0,8.5,2.62,,"sthompson@field-ops.org","dmitchell@neoninc.org",

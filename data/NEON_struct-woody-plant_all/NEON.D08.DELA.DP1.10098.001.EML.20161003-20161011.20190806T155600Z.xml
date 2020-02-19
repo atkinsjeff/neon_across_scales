@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:eml packageId="" system="https://neonscience.org" scope="system" xmlns:ns6="eml://ecoinformatics.org/party-2.1.1" xmlns:ns5="eml://ecoinformatics.org/text-2.1.1" xmlns:ns7="eml://ecoinformatics.org/physical-2.1.1" xmlns:ns2="eml://ecoinformatics.org/software-2.1.1" xmlns:ns4="eml://ecoinformatics.org/access-2.1.1" xmlns:ns3="eml://ecoinformatics.org/eml-2.1.1">
+    <access order="allowFirst" authSystem="https://neonscience.org/authentication">
+        <allow>
+            <principal>public</principal>
+            <permission>read</permission>
+        </allow>
+    </access>
+    <dataset id="NEON.D08.DELA.DP1.10098.001.20161003-20161011">
+        <shortName>NEON DELA Woody plant vegetation structure 2016-10-03 to 2016-10-11</shortName>
+        <title>NEON Woody plant vegetation structure at DELA, Domain 08, 2016-10-03 to 2016-10-11</title>
+        <creator id="neon_contact">
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </creator>
+        <metadataProvider>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </metadataProvider>
+        <pubDate>2019-08-06</pubDate>
+        <language>English</language>
+        <intellectualRights>
+	
+            <para>NEON Data Usage and Citation Policy</para>
+	
+            <para>Copyright © 2016 National Ecological Observatory Network</para>
+	
+            <para>Permission is hereby granted, free of charge, to any person or organization obtaining a
+		copy of the NEON Observatory data products, associated software and accompanying
+		documentation covered by this license (the "NEON Data Products") to use, reproduce, display,
+		distribute, publish, execute, and transmit the NEON Data Products, and to prepare derivative
+		works of the NEON Data Products, and to permit third-parties to whom the NEON Data Products
+		are furnished to do so, all subject to the following:</para>
+	
+            <para>The copyright notices in the NEON Data Products and this entire statement, including the
+		above copyright statement, license grant, this restriction and the following disclaimer,
+		must be included in all copies of the NEON Data Products, in whole or in part, and all
+		derivative works of the Data Products.</para>
+	
+            <para>The NEON data products are provided "as is", without warranty of any kind, express or
+		implied, including but not limited to the warranties of merchantability, fitness for a
+		particular purpose, title and non-infringement. In no event shall the copyright holders or
+		anyone distributing the neon data products be liable for any damages or other liability,
+		whether in contract, tort or otherwise, arising from, out of or in connection with the NEON
+		data products.</para>
+</intellectualRights>
+        <distribution>
+            <online>
+                <url function="information">http://data.neonscience.org/</url>
+            </online>
+        </distribution>
+        <coverage>
+            <geographicCoverage id="DELA">
+                <geographicDescription>DELA, D08</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>-87.803877</westBoundingCoordinate>
+                    <eastBoundingCoordinate>-87.803877</eastBoundingCoordinate>
+                    <northBoundingCoordinate>32.541727</northBoundingCoordinate>
+                    <southBoundingCoordinate>32.541727</southBoundingCoordinate>
+                    <boundingAltitudes>
+                        <altitudeMinimum>25.009660000000000223963070311583578586578369140625</altitudeMinimum>
+                        <altitudeMaximum>25.009660000000000223963070311583578586578369140625</altitudeMaximum>
+                        <altitudeUnits>meter</altitudeUnits>
+                    </boundingAltitudes>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>2016-10-03</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2016-10-11</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+        </coverage>
+        <purpose>Structure measurements, including height, canopy diameter, and stem diameter, as well as mapped position of individual woody plants</purpose>
+        <maintenance>
+            <description>
+                
+                <para>These data are available via the NEON Data Portal
+                    (http://data.neonscience.org).</para>
+            </description>
+            <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </contact>
+        <publisher>
+            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+            <address>
+                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                <city>Boulder</city>
+                <administrativeArea>CO</administrativeArea>
+                <postalCode>80301</postalCode>
+                <country>USA</country>
+            </address>
+            <phone phonetype="voice">720-746-4844</phone>
+            <electronicMailAddress/>
+            <onlineUrl>http://www.neonscience.org</onlineUrl>
+        </publisher>
+        <project>
+            <title>National Ecological Research Network (NEON)</title>
+            <personnel>
+                <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                <address>
+                    <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                    <city>Boulder</city>
+                    <administrativeArea>CO</administrativeArea>
+                    <postalCode>80301</postalCode>
+                    <country>USA</country>
+                </address>
+                <phone phonetype="voice">720-746-4844</phone>
+                <onlineUrl>http://www.neonscience.org</onlineUrl>
+                <role>originator</role>
+            </personnel>
+            <abstract>
+                
+                <para>The National Ecological Observatory Network is a project sponsored by the
+                    National Science Foundation.</para>
+                
+                <para>NEON's mission is to design, implement, and operate continental-scale research
+                    infrastructure to open new horizons in ecological science and education, and to
+                    enable ecological analyses and forecasts for the benefit of society.</para>
+            </abstract>
+            <funding>
+                
+                <para>NSF Awards EF-1029808, EF-1246537, EF-1138160, EF-0752017</para>
+            </funding>
+            <studyAreaDescription>
+                <citation id="neon_2011_sciencedesign">
+                    <title>"2011 Science Strategy: Enabling Continental-Scale Ecological
+                        Forecasting"</title>
+                    <creator>
+                        <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                        <address>
+                            <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                            <city>Boulder</city>
+                            <administrativeArea>CO</administrativeArea>
+                            <postalCode>80301</postalCode>
+                            <country>USA</country>
+                        </address>
+                        <phone phonetype="voice">720-746-4844</phone>
+                        <electronicMailAddress/>
+                        <onlineUrl>http://www.neonscience.org</onlineUrl>
+                    </creator>
+                    <pubDate>2011</pubDate>
+                    <language>english</language>
+                    <intellectualRights>Copyright 2011 NEON, Inc. ALL RIGHTS
+                        RESERVED</intellectualRights>
+                    <distribution>
+                        <online>
+                            <url>http://www.neonscience.org/sites/default/files/basic-page-files/NEON_Strategy_2011u2_0.pdf</url>
+                        </online>
+                    </distribution>
+                    <report>
+                        <publisher>
+                            <organizationName>National Ecological Observatory Network (NEON)</organizationName>
+                            <address>
+                                <deliveryPoint>1685 38th Street, Suite 100</deliveryPoint>
+                                <city>Boulder</city>
+                                <administrativeArea>CO</administrativeArea>
+                                <postalCode>80301</postalCode>
+                                <country>USA</country>
+                            </address>
+                            <phone phonetype="voice">720-746-4844</phone>
+                            <electronicMailAddress/>
+                            <onlineUrl>http://www.neonscience.org</onlineUrl>
+                        </publisher>
+                        <totalPages>56</totalPages>
+                    </report>
+                </citation>
+            </studyAreaDescription>
+            <designDescription>
+                <citation>
+                    <references>neon_2011_sciencedesign</references>
+                </citation>
+            </designDescription>
+        </project>
+        <dataTable>
+            <entityName>NEON.D08.DELA.DP1.10098.001.vst_perplotperyear.2016-10.basic.20190806T155600Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>decimalLatitude</attributeName>
+                    <attributeDefinition>The geographic latitude (in decimal degrees, WGS84) of the geographic center of the reference area</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>decimalLongitude</attributeName>
+                    <attributeDefinition>The geographic longitude (in decimal degrees, WGS84) of the geographic center of the reference area</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>decimalDegree</customUnit>
+                            </unit>
+                            <precision>1.0E-6</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>geodeticDatum</attributeName>
+                    <attributeDefinition>Model used to measure horizontal position on the earth</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Model used to measure horizontal position on the earth</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>coordinateUncertainty</attributeName>
+                    <attributeDefinition>The horizontal distance (in meters) from the given decimalLatitude and decimalLongitude describing the smallest circle containing the whole of the Location. Zero is not a valid value for this term</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>easting</attributeName>
+                    <attributeDefinition>Geographic coordinate specifying the east-west position of a point on the Earth's surface (Universal Transverse Mercator, UTM)</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>northing</attributeName>
+                    <attributeDefinition>Geographic coordinate specifying the north-south position of a point on the Earth's surface (Universal Transverse Mercator, UTM)</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>utmZone</attributeName>
+                    <attributeDefinition>UTM zone</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>UTM zone</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>elevation</attributeName>
+                    <attributeDefinition>Elevation (in meters) above sea level</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>elevationUncertainty</attributeName>
+                    <attributeDefinition>Uncertainty in elevation values (in meters)</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>eventID</attributeName>
+                    <attributeDefinition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>samplingProtocolVersion</attributeName>
+                    <attributeDefinition>The NEON document number and version where detailed information regarding the sampling method used is available; format NEON.DOC.######vX</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vD</code>
+                                        <definition>NEON.DOC.000987vD</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vG</code>
+                                        <definition>NEON.DOC.000987vG</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vB</code>
+                                        <definition>NEON.DOC.000987vB</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vF</code>
+                                        <definition>NEON.DOC.000987vF</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vH</code>
+                                        <definition>NEON.DOC.000987vH</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vC</code>
+                                        <definition>NEON.DOC.000987vC</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vE</code>
+                                        <definition>NEON.DOC.000987vE</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>NEON.DOC.000987vA</code>
+                                        <definition>NEON.DOC.000987vA</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>treesPresent</attributeName>
+                    <attributeDefinition>Indicator of whether the plot contains trees &gt;= 10 cm diameter</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>N</code>
+                                        <definition>N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Y</code>
+                                        <definition>Y</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>U</code>
+                                        <definition>U</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>treesAbsentList</attributeName>
+                    <attributeDefinition>List of subplots in which trees are not present</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>List of subplots in which trees are not present</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shrubsPresent</attributeName>
+                    <attributeDefinition>Indicator of whether the plot contains shrubs, saplings, or small trees</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>N</code>
+                                        <definition>N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Y</code>
+                                        <definition>Y</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>U</code>
+                                        <definition>U</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shrubsAbsentList</attributeName>
+                    <attributeDefinition>List of subplots or nested subplots in which shrubs, saplings and small trees are not present</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>List of subplots or nested subplots in which shrubs, saplings and small trees are not present</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>lianasPresent</attributeName>
+                    <attributeDefinition>Indicator of whether the plot contains lianas</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>N</code>
+                                        <definition>N</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Y</code>
+                                        <definition>Y</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>U</code>
+                                        <definition>U</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>lianasAbsentList</attributeName>
+                    <attributeDefinition>List of subplots or nested subplots in which lianas are not present</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>List of subplots or nested subplots in which lianas are not present</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>nestedSubplotAreaShrubSapling</attributeName>
+                    <attributeDefinition>Size of nested plot in which shrubs, saplings and small trees were measured</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>100</code>
+                                        <definition>100</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>3</code>
+                                        <definition>3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>10</code>
+                                        <definition>10</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>25</code>
+                                        <definition>25</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>unknown</code>
+                                        <definition>unknown</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>noneSelected</code>
+                                        <definition>noneSelected</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>1</code>
+                                        <definition>1</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>nestedSubplotAreaLiana</attributeName>
+                    <attributeDefinition>Size of nested plot in which lianas were measured</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>100</code>
+                                        <definition>100</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>3</code>
+                                        <definition>3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>10</code>
+                                        <definition>10</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>25</code>
+                                        <definition>25</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>unknown</code>
+                                        <definition>unknown</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>noneSelected</code>
+                                        <definition>noneSelected</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>1</code>
+                                        <definition>1</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>totalSampledAreaTrees</attributeName>
+                    <attributeDefinition>Total plot area sampled for single and multi-bole trees</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>squareMeter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>totalSampledAreaShrubSapling</attributeName>
+                    <attributeDefinition>Total plot area sampled for saplings, shrubs, and small trees</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>squareMeter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>totalSampledAreaLiana</attributeName>
+                    <attributeDefinition>Total plot area sampled for liana</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>squareMeter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>measuredBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who measured or collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who measured or collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>recordedBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who recorded the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who recorded the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dataQF</attributeName>
+                    <attributeDefinition>Data quality flag</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>date</attributeName>
+                    <attributeDefinition>Date or date and time of measurement, observation, or collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>plotID</attributeName>
+                    <attributeDefinition>Plot identifier (NEON site code_XXX)</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Plot identifier (NEON site code_XXX)</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>plotType</attributeName>
+                    <attributeDefinition>NEON plot type in which sampling occurred: tower, distributed or gradient</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON plot type in which sampling occurred: tower, distributed or gradient</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>nlcdClass</attributeName>
+                    <attributeDefinition>National Land Cover Database Vegetation Type Name</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>National Land Cover Database Vegetation Type Name</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>9</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D08.DELA.DP1.10098.001.vst_apparentindividual.2016-10.basic.20190806T155600Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>basalStemDiameterMsrmntHeight</attributeName>
+                    <attributeDefinition>Height at which basalStemDiameter is measured</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>centimeter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>maxBaseCrownDiameter</attributeName>
+                    <attributeDefinition>Maximum crown diameter, measured at ground level</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>ninetyBaseCrownDiameter</attributeName>
+                    <attributeDefinition>Crown diameter perpendicular to maxBaseCrownDiameter, measured at ground level</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.01</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>recordedBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who recorded the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who recorded the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>measuredBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who measured or collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who measured or collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dataQF</attributeName>
+                    <attributeDefinition>Data quality flag</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>subplotID</attributeName>
+                    <attributeDefinition>Identifier for the NEON subplot</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>40</code>
+                                        <definition>40</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>41</code>
+                                        <definition>41</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>23</code>
+                                        <definition>23</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>39</code>
+                                        <definition>39</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>21</code>
+                                        <definition>21</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>31</code>
+                                        <definition>31</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>32</code>
+                                        <definition>32</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>tempShrubStemID</attributeName>
+                    <attributeDefinition>Stem-level identifier for a multi-stemmed shrub</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Stem-level identifier for a multi-stemmed shrub</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>date</attributeName>
+                    <attributeDefinition>Date or date and time of measurement, observation, or collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>eventID</attributeName>
+                    <attributeDefinition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>plotID</attributeName>
+                    <attributeDefinition>Plot identifier (NEON site code_XXX)</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Plot identifier (NEON site code_XXX)</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>individualID</attributeName>
+                    <attributeDefinition>Domain-level unique identifier for an individual: NEON.MOD.D##.######</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Domain-level unique identifier for an individual: NEON.MOD.D##.######</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>tagStatus</attributeName>
+                    <attributeDefinition>Description of state or condition of the physical tag</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>untagged</code>
+                                        <definition>untagged</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>mislabeled</code>
+                                        <definition>mislabeled</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>removed</code>
+                                        <definition>removed</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>notRequired</code>
+                                        <definition>notRequired</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>unknown</code>
+                                        <definition>unknown</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ok</code>
+                                        <definition>ok</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>replaced</code>
+                                        <definition>replaced</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>growthForm</attributeName>
+                    <attributeDefinition>The growth form classification</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>small tree</code>
+                                        <definition>smt</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>xerophyllum</code>
+                                        <definition>xer</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>fern</code>
+                                        <definition>frn</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>cactus</code>
+                                        <definition>cac</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>palm</code>
+                                        <definition>plm</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>single shrub</code>
+                                        <definition>sis</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>liana</code>
+                                        <definition>lia</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>single bole tree</code>
+                                        <definition>sbt</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>sapling</code>
+                                        <definition>sap</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>small shrub</code>
+                                        <definition>sms</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>multi-bole tree</code>
+                                        <definition>mbt</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>yucca</code>
+                                        <definition>yuc</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ocotillo</code>
+                                        <definition>oco</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>plantStatus</attributeName>
+                    <attributeDefinition>Physical status of individual: live, dead, lost</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Lost, fate unknown</code>
+                                        <definition>15</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>No longer qualifies</code>
+                                        <definition>8</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Dead, broken bole</code>
+                                        <definition>10</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost, herbivory</code>
+                                        <definition>12</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost, tag damaged</code>
+                                        <definition>14</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Downed</code>
+                                        <definition>16</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live, physically damaged</code>
+                                        <definition>6</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost, presumed dead</code>
+                                        <definition>13</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live, broken bole</code>
+                                        <definition>9</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live</code>
+                                        <definition>1</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Lost, burned</code>
+                                        <definition>11</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Removed</code>
+                                        <definition>3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live,  other damage</code>
+                                        <definition>7</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live, disease damaged</code>
+                                        <definition>5</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Live, insect damaged</code>
+                                        <definition>4</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Standing dead</code>
+                                        <definition>2</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>stemDiameter</attributeName>
+                    <attributeDefinition>Cross-sectional stem diameter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>centimeter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>measurementHeight</attributeName>
+                    <attributeDefinition>Height at which stemDiameter is measured</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>centimeter</customUnit>
+                            </unit>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>height</attributeName>
+                    <attributeDefinition>Highest point of an individual or average height of a patch</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>baseCrownHeight</attributeName>
+                    <attributeDefinition>Height above the ground for the lowest portion of the crown</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>breakHeight</attributeName>
+                    <attributeDefinition>Height from the ground to the highest point along a broken bole</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>breakDiameter</attributeName>
+                    <attributeDefinition>Cross-sectional diameter at the break point along a broken bole</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>centimeter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>maxCrownDiameter</attributeName>
+                    <attributeDefinition>Maximum crown diameter of the individual or patch</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>ninetyCrownDiameter</attributeName>
+                    <attributeDefinition>Crown diameter perpendicular to maxDiameter</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>canopyPosition</attributeName>
+                    <attributeDefinition>Vertical status of an individual relative to its neighbors</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>Full shade</code>
+                                        <definition>5</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Open grown</code>
+                                        <definition>1</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Partially shaded</code>
+                                        <definition>3</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Mostly shaded</code>
+                                        <definition>4</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>Full sun</code>
+                                        <definition>2</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>shape</attributeName>
+                    <attributeDefinition>Description of three dimensional form</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <enumeratedDomain>
+                                    <codeDefinition>
+                                        <code>half-sphere</code>
+                                        <definition>hsp</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>pad</code>
+                                        <definition>pad</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>vine</code>
+                                        <definition>vin</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>oblate half-sphere</code>
+                                        <definition>ohs</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>inverted cone</code>
+                                        <definition>icn</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>columnar</code>
+                                        <definition>col</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>cylinder</code>
+                                        <definition>cyl</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>cone</code>
+                                        <definition>cne</definition>
+                                    </codeDefinition>
+                                    <codeDefinition>
+                                        <code>ellipsoid or sphere</code>
+                                        <definition>elp</definition>
+                                    </codeDefinition>
+                                </enumeratedDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>basalStemDiameter</attributeName>
+                    <attributeDefinition>Cross-sectional stem diameter at base of stem</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>centimeter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>1243</numberOfRecords>
+        </dataTable>
+        <dataTable>
+            <entityName>NEON.D08.DELA.DP1.10098.001.vst_mappingandtagging.basic.20190806T155600Z</entityName>
+            <attributeList>
+                <attribute>
+                    <attributeName>recordType</attributeName>
+                    <attributeDefinition>Categorical indicator for type of data record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Categorical indicator for type of data record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>uid</attributeName>
+                    <attributeDefinition>Unique ID within NEON database; an identifier for the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique ID within NEON database; an identifier for the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>namedLocation</attributeName>
+                    <attributeDefinition>Name of the measurement location in the NEON database</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Name of the measurement location in the NEON database</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>date</attributeName>
+                    <attributeDefinition>Date or date and time of measurement, observation, or collection event</attributeDefinition>
+                    <measurementScale>
+                        <dateTime>
+                            <formatString>yyyy-MM-dd(floor)</formatString>
+                        </dateTime>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>eventID</attributeName>
+                    <attributeDefinition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the set of information associated with the event, which includes information about the place and time of the event</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>domainID</attributeName>
+                    <attributeDefinition>Unique identifier of the NEON domain</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Unique identifier of the NEON domain</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>siteID</attributeName>
+                    <attributeDefinition>NEON site code</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>NEON site code</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>plotID</attributeName>
+                    <attributeDefinition>Plot identifier (NEON site code_XXX)</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Plot identifier (NEON site code_XXX)</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>pointID</attributeName>
+                    <attributeDefinition>Identifier for a point location</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for a point location</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>stemDistance</attributeName>
+                    <attributeDefinition>Horizontal distance from stem to pointID location</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <customUnit>meter</customUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>stemAzimuth</attributeName>
+                    <attributeDefinition>Azimuth relative to True North between stem and pointID location</attributeDefinition>
+                    <measurementScale>
+                        <ratio>
+                            <unit>
+                                <standardUnit>degree</standardUnit>
+                            </unit>
+                            <precision>0.1</precision>
+                            <numericDomain>
+                                <numberType>real</numberType>
+                            </numericDomain>
+                        </ratio>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>individualID</attributeName>
+                    <attributeDefinition>Domain-level unique identifier for an individual: NEON.MOD.D##.######</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Domain-level unique identifier for an individual: NEON.MOD.D##.######</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>supportingStemIndividualID</attributeName>
+                    <attributeDefinition>Globally unique identifier for stem on which a liana is growing</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Globally unique identifier for stem on which a liana is growing</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>previouslyTaggedAs</attributeName>
+                    <attributeDefinition>Indicates the tagID previously reported for a given individual</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Indicates the tagID previously reported for a given individual</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>samplingProtocolVersion</attributeName>
+                    <attributeDefinition>The NEON document number and version where detailed information regarding the sampling method used is available; format NEON.DOC.######vX</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>The NEON document number and version where detailed information regarding the sampling method used is available; format NEON.DOC.######vX</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>taxonID</attributeName>
+                    <attributeDefinition>Species code, based on one or more sources</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Species code, based on one or more sources</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>scientificName</attributeName>
+                    <attributeDefinition>Scientific name, associated with the taxonID. This is the name of the lowest level taxonomic rank that can be determined</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Scientific name, associated with the taxonID. This is the name of the lowest level taxonomic rank that can be determined</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>taxonRank</attributeName>
+                    <attributeDefinition>The lowest level taxonomic rank that can be determined for the individual or specimen</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>The lowest level taxonomic rank that can be determined for the individual or specimen</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>identificationReferences</attributeName>
+                    <attributeDefinition>A list of sources (concatenated and semicolon separated) used to derive the specific taxon concept; including field guide editions, books, or versions of NEON keys used</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>A list of sources (concatenated and semicolon separated) used to derive the specific taxon concept; including field guide editions, books, or versions of NEON keys used</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>morphospeciesID</attributeName>
+                    <attributeDefinition>Identifier for morphospecies</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Identifier for morphospecies</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>morphospeciesIDRemarks</attributeName>
+                    <attributeDefinition>Technician notes about the morphospecies; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes about the morphospecies; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>remarks</attributeName>
+                    <attributeDefinition>Technician notes; free text comments accompanying the record</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Technician notes; free text comments accompanying the record</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>measuredBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who measured or collected the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who measured or collected the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>recordedBy</attributeName>
+                    <attributeDefinition>An identifier for the technician who recorded the data</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>An identifier for the technician who recorded the data</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+                <attribute>
+                    <attributeName>dataQF</attributeName>
+                    <attributeDefinition>Data quality flag</attributeDefinition>
+                    <measurementScale>
+                        <nominal>
+                            <nonNumericDomain>
+                                <textDomain>
+                                    <definition>Data quality flag</definition>
+                                </textDomain>
+                            </nonNumericDomain>
+                        </nominal>
+                    </measurementScale>
+                </attribute>
+            </attributeList>
+            <caseSensitive>yes</caseSensitive>
+            <numberOfRecords>4206</numberOfRecords>
+        </dataTable>
+    </dataset>
+    <additionalMetadata><metadata>
+<!--null-->
+<unitList xmlns="http://www.xml-cml.org/schema/stmml-1.1">
+    <unitType id="amount" name="amount">
+        <dimension name="amount"/>
+    </unitType>
+    <unitType id="angle" name="angle">
+        <dimension name="angle"/>
+    </unitType>
+    <unitType id="current" name="current">
+        <dimension name="current"/>
+    </unitType>
+    <unitType id="dimensionless" name="dimensionless">
+        <dimension name="dimensionless"/>
+    </unitType>
+    <unitType id="length" name="length">
+        <dimension name="length"/>
+    </unitType>
+    <unitType id="luminosity" name="luminosity">
+        <dimension name="luminosity"/>
+    </unitType>
+    <unitType id="mass" name="mass">
+        <dimension name="mass"/>
+    </unitType>
+    <unitType id="temperature" name="temperature">
+        <dimension name="temperature"/>
+    </unitType>
+    <unitType id="time" name="time">
+        <dimension name="time"/>
+    </unitType>
+    <unitType id="acceleration" name="acceleration">
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="amountOfSubstanceConcentration" name="amountOfSubstanceConcentration">
+        <dimension name="amount" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="amountOfSubstanceWeight" name="amountOfSubstanceWeight">
+        <dimension name="amount" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="amountOfSubstanceWeightFlux" name="amountOfSubstanceWeightFlux">
+        <dimension name="amount" power="1"/>
+        <dimension name="mass" power="-1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="amountPerAmount" name="amountPerAmount">
+        <dimension name="amount" power="1"/>
+        <dimension name="amount" power="-1"/>
+    </unitType>
+    <unitType id="area" name="area">
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="arealAmountDensityRate" name="arealAmountDensityRate">
+        <dimension name="amount" power="1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="arealDensity" name="arealDensity">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="arealMassDensity" name="arealMassDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="arealMassDensityRate" name="arealMassDensityRate">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="capacitance" name="capacitance">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="4"/>
+        <dimension name="current" power="2"/>
+    </unitType>
+    <unitType id="catalyticActivity" name="catalyticActivity">
+        <dimension name="time" power="-1"/>
+        <dimension name="amount" power="1"/>
+    </unitType>
+    <unitType id="charge" name="charge">
+        <dimension name="current" power="1"/>
+        <dimension name="time" power="1"/>
+    </unitType>
+    <unitType id="conductance" name="conductance">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+        <dimension name="time" power="3"/>
+        <dimension name="current" power="2"/>
+    </unitType>
+    <unitType id="conductivity" name="conductivity">
+        <dimension name="current" power="2"/>
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-3"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="currentDensity" name="currentDensity">
+        <dimension name="current" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="doseEquivalent" name="doseEquivalent">
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="energy" name="energy">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="force" name="force">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-2"/>
+    </unitType>
+    <unitType id="frequency" name="frequency">
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="illuminance" name="illuminance">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="inductance" name="inductance">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="intensity" name="intensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="lengthReciprocal" name="lengthReciprocal">
+        <dimension name="length" power="-1"/>
+    </unitType>
+    <unitType id="luminance" name="luminance">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="luminousFlux" name="luminousFlux">
+        <dimension name="luminosity" power="1"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="magneticFieldStrength" name="magneticFieldStrength">
+        <dimension name="current" power="1"/>
+        <dimension name="length" power="-1"/>
+    </unitType>
+    <unitType id="magneticFlux" name="magneticFlux">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="magneticFluxDensity" name="magneticFluxDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="massDensity" name="massDensity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="massFlux" name="massFlux">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="massPerMass" name="massPerMass">
+        <dimension name="mass" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="massSpecificCount" name="massSpecificCount">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="massSpecificLength" name="massSpecificLength">
+        <dimension name="length" power="1"/>
+        <dimension name="mass" power="-1"/>
+    </unitType>
+    <unitType id="potentialDifference" name="potentialDifference">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-1"/>
+    </unitType>
+    <unitType id="power" name="power">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+    </unitType>
+    <unitType id="pressure" name="pressure">
+        <dimension name="mass" power="1"/>
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="1"/>
+    </unitType>
+    <unitType id="radionucleotideActivity" name="radionucleotideActivity">
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="resistance" name="resistance">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="resistivity" name="resistivity">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="3"/>
+        <dimension name="time" power="-3"/>
+        <dimension name="current" power="-2"/>
+    </unitType>
+    <unitType id="specificArea" name="specificArea">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="specificEnergy" name="specificEnergy">
+        <dimension name="time" power="-2"/>
+        <dimension name="length" power="2"/>
+    </unitType>
+    <unitType id="specificVolume" name="specificVolume">
+        <dimension name="mass" power="-1"/>
+        <dimension name="length" power="3"/>
+    </unitType>
+    <unitType id="speed" name="speed">
+        <dimension name="length" power="1"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="transmissivity" name="transmissivity">
+        <dimension name="length" power="2"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="variance" name="variance">
+        <dimension name="amount" power="2"/>
+    </unitType>
+    <unitType id="volume" name="volume">
+        <dimension name="length" power="3"/>
+    </unitType>
+    <unitType id="volumePerVolume" name="volumePerVolume">
+        <dimension name="length" power="3"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="volumetricArea" name="volumetricArea">
+        <dimension name="length" power="3"/>
+        <dimension name="length" power="-2"/>
+    </unitType>
+    <unitType id="volumetricDensity" name="volumetricDensity">
+        <dimension name="dimensionless" power="1"/>
+        <dimension name="length" power="-3"/>
+    </unitType>
+    <unitType id="volumetricMass" name="volumetricMass">
+        <dimension name="length" power="3"/>
+        <dimension name="mass" power="1"/>
+    </unitType>
+    <unitType id="volumetricMassDensityRate" name="volumetricMassDensityRate">
+        <dimension name="mass" power="1"/>
+        <dimension name="length" power="-3"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unitType id="volumetricRate" name="volumetricRate">
+        <dimension name="length" power="3"/>
+        <dimension name="time" power="-1"/>
+    </unitType>
+    <unit id="squareMeter" abbreviation="m^2" name="squareMeter" parentSI="squareMeter" unitType="area" multiplierToSI="1"/>
+    <unit id="meter" abbreviation="m" name="meter" parentSI="meter" unitType="length" multiplierToSI="1"/>
+    <unit id="degree" abbreviation="º" name="degree" parentSI="radian" unitType="angle" multiplierToSI="0.0174533"/>
+    <unit id="decimalDegree" abbreviation="DD" name="decimalDegree" parentSI="radian" unitType="angle" multiplierToSI="0.0174533"/>
+    <unit id="centimeter" abbreviation="cm" name="centimeter" parentSI="meter" unitType="length" multiplierToSI="0.01"/>
+</unitList></metadata></additionalMetadata>
+</ns3:eml>
